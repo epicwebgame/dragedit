@@ -55,7 +55,7 @@ header {
 	text-align: center;
 	margin: 4px 0px;
 }
-div.jugram {
+.jugram {
    width:100px; /*width of your image*/
    height:100px; /*height of your image*/
    background-image:url('jugrampor.png');
