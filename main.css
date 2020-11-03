@@ -56,8 +56,8 @@ header {
 	margin: 4px 0px;
 }
 .jugram {
-   width:100px; /*width of your image*/
-   height:100px; /*height of your image*/
+   width:128px; /*width of your image*/
+   height:168px; /*height of your image*/
    background-image:url('jugrampor.png');
    margin:0; /* If you want no margin */
    padding:0; /*if your want to padding */
