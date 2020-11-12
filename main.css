@@ -62,13 +62,7 @@ header {
    margin:0; /* If you want no margin */
    padding:0; /*if your want to padding */
 }
-.byakuya1 {
-   width:97px; /*width of your image*/
-   height:128px; /*height of your image*/
-   background-image:url(byakuya/6s-Byakuya_Kuchiki-%28Cacao_Society_version%29-Speed.png);
-   margin:0; /* If you want no margin */
-   padding:0; /*if your want to padding */
-}
+
 .byakuya2 {
    width:97px; /*width of your image*/
    height:127px; /*height of your image*/
@@ -136,6 +130,13 @@ header {
    width:97px; /*width of your image*/
    height:127px; /*height of your image*/
    background-image:url(byakuya/6s-Byakuya-Frenzy-Power.png);
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+}
+.byakuya1 {
+   width:97px; /*width of your image*/
+   height:128px; /*height of your image*/
+   background-image:url(byakuya/6s-Byakuya_Kuchiki-%28Cacao_Society_version%29-Speed.png);
    margin:0; /* If you want no margin */
    padding:0; /*if your want to padding */
 }
